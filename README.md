@@ -1,4 +1,3 @@
-# Kriti_2699
 # SSE Renewables — Climate Risk Platform
 
 AI-powered wind energy analytics platform built on BDH physics model + Groq LLM + RAG over SSE corporate documents.
